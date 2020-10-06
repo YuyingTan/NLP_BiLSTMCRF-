@@ -1,2 +1,2 @@
 # NaturalLanguageProcessing
-study notebook of some algorithms
+code of BiLSTMCRF algorithm
